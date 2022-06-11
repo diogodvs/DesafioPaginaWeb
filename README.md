@@ -1,7 +1,7 @@
 # DesafioPaginaWeb
 
 link para visualizacao do projeto
-https://diogodvs.github.io/DesafioPaginaWeb/
+
 
 Objetivo:
 - Desenvolver o front-end dos arquivos PSD em anexo;
