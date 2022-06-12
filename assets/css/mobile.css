@@ -1,0 +1,67 @@
+@media(max-width: 992px) {
+    body {
+        padding: 0;
+        margin: 0;
+    }
+
+    /*  topo da pagina mobile */
+
+    #header {
+        background-color: grey;
+        height: 430px;
+        width: 100vw;
+    }
+
+    #img-topo {
+        width: 400px;
+        height: 300px;
+        margin-top: 140px;
+    }
+
+    .text {
+        padding: 15px;
+        font-size: 20px;
+        align-items: center;
+    }
+
+    .text p {
+        width: 250px;
+        margin: auto;
+    }
+
+    /* primeira sessao mobile */
+
+    .first-section {
+        flex-direction: column;
+    }
+
+    .item-first-section {
+        max-width: 100%;
+    }
+
+
+    /* segunda sessao mobile */
+
+    .second-section {
+        max-width: 300px;
+        width: 100vw;
+        height: auto;
+        flex-direction: column;
+        max-height: 190vh;
+        padding: 30px;
+        text-align: center;
+        padding-bottom: 50px;
+        padding: 50px px;
+    }
+
+    #second-section-text {
+        margin: auto;
+        max-height: 100%;
+        margin-top: 20px;
+    }
+
+    #second-section-image img {
+        width: 70vw;
+        height: 40vh;
+    }
+}
